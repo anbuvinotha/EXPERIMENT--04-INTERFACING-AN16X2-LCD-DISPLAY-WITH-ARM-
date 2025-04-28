@@ -172,15 +172,17 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ![image](https://user-images.githubusercontent.com/36288975/233857974-bda6200e-4f88-4e7b-b189-4da80210fa23.png)
 
 
-## STM 32 CUBE PROGRAM :
-
 
 
 
 ## Output screen shots of proteus  :
+![WhatsApp Image 2025-04-28 at 13 55 05_a2b2dd50](https://github.com/user-attachments/assets/87d5c03a-36b4-41b3-b46b-639d2304a12a)
+
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ ![WhatsApp Image 2025-04-28 at 13 58 46_1db58fd3](https://github.com/user-attachments/assets/b2ec89af-2415-402b-9c48-8e9543cf789d)
+
  
  
 ## Result :
