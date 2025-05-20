@@ -192,13 +192,13 @@ MX_GPIO_Init();
 
 
 ## Output screen shots of proteus  :
- 
-![image](https://github.com/user-attachments/assets/166d7e0a-51ad-4b56-b8e2-4547805f6e70)
+ ![WhatsApp Image 2025-04-28 at 13 53 13_1f94c4d3](https://github.com/user-attachments/assets/33c8c736-b874-4f69-bdda-6b3e5c7c0523)
+
 
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-![image](https://github.com/user-attachments/assets/8fb1675b-e586-470d-8bc4-67e966ddee06)
- 
+ ![WhatsApp Image 2025-04-28 at 13 58 29_b19b5a5f](https://github.com/user-attachments/assets/222caf87-909f-435a-b74c-ed4d8f1a79db)
+
  
 ## Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
