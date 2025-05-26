@@ -192,12 +192,15 @@ MX_GPIO_Init();
 
 
 ## Output screen shots of proteus  :
- ![WhatsApp Image 2025-04-28 at 13 53 13_1f94c4d3](https://github.com/user-attachments/assets/33c8c736-b874-4f69-bdda-6b3e5c7c0523)
+![WhatsApp Image 2025-05-26 at 13 12 48_1505d483](https://github.com/user-attachments/assets/5769233d-af33-4ee7-86ad-4ce5778693c7)
+
 
 
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![WhatsApp Image 2025-04-28 at 13 58 29_b19b5a5f](https://github.com/user-attachments/assets/222caf87-909f-435a-b74c-ed4d8f1a79db)
+ ![WhatsApp Image 2025-05-26 at 13 13 20_3849e950](https://github.com/user-attachments/assets/a2c03037-bf6e-409d-a8a6-d91e282c52da)
+
+
 
  
 ## Result :
